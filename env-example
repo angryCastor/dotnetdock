@@ -1,0 +1,10 @@
+TYPE_DOTNET=sdk
+# TYPE_DOTNET=runtime
+
+APP_PATH=/home/ilya/Documents/dotnet/yandexAuth
+
+INTERFACE=0.0.0.0
+
+MONGODB_USER=user
+MONGODB_PASS=pass
+MONGODB_DATABASE=container
